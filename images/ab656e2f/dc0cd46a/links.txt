@@ -1,0 +1,8 @@
+c1 = https://www.pixiv.net/artworks/111018964
+c2 - https://twitter.com/sonnamonaka/status/1812769424040227000
+c3 - https://www.pixiv.net/en/artworks/125066827
+u1 - https://www.pixiv.net/artworks/117467470
+u2 - https://www.pixiv.net/artworks/117495307
+r1 - https://twitter.com/Hell_fuuna/status/1891835251548389643
+r2 - https://www.pixiv.net/en/artworks/118723158
+limited - https://twitter.com/HEIRO_MAN/status/1904849122794107014
