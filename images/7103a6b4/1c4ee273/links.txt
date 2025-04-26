@@ -1,7 +1,0 @@
-c1 - https://www.pixiv.net/en/artworks/99019071
-c2 - https://www.pixiv.net/en/artworks/81061252
-c3 - https://www.pixiv.net/en/artworks/82268333
-u1 - https://www.pixiv.net/en/users/1960050/artworks
-u2 - https://www.pixiv.net/en/artworks/82060992
-r1 - https://www.pixiv.net/en/artworks/94201452
-limited - https://www.pixiv.net/en/artworks/82257058
